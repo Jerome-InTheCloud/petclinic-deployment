@@ -1,6 +1,6 @@
 # Service - LoadBalancer
 # # pb-service -lb.yml
-apiVersion: v1
+apiVersion: v2
 kind: Service
 metadata:
   name: petclinic-service
