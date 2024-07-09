@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: jeromeinthecloud/petclinic
+  repository: jeromeinthecloud/petclinic-deployment
   tag: latest
   pullPolicy: IfNotPresent
 
